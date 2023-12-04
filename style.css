@@ -17,9 +17,9 @@ body {
     left: auto;
 }
 
-body, html {
+/* body, html {
     overflow-x: hidden;
-}
+} */
 
 img {
     max-width: 100%;
